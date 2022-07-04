@@ -2,7 +2,7 @@
 ## 10 points
 
 ### Assignment Description
-Answer the following questions from the Chapter 1 reading from your text book. Be complete with your answers. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
+Answer the following questions from the Chapter 1 reading from your textbook. Be complete with your answers. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
 
 1. Name two advantages and two disadvantages of distributed systems over centralized systems.
 2. Describe what is meant by a scalable system.
